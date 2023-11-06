@@ -7,7 +7,7 @@ List of commonly asked questions and known bugs.
 ---
 #### **How can I setup my own servers**
 
-All the information to setup your own server can be found [here](../create-a-server).
+All the information to setup your own server can be found [here](/server/create-a-server/).
 
 ---
 #### **Can you make a server using linux?**
